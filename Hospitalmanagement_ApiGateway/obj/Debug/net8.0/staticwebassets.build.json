@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZY4KJYySoxs+jvSWpSBryu3QahDe31kAo/2Bz+hS1T0=",
+  "Source": "Hospitalmanagement_ApiGateway",
+  "BasePath": "_content/Hospitalmanagement_ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

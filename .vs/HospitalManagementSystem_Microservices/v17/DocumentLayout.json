@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NANDINI\\source\\repos\\HospitalManagementSystem_Microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36444E9C-8E6B-4D77-9819-C5C0CEB65E56}|Hospitalmanagement_ApiGateway\\Hospitalmanagement_ApiGateway.csproj|c:\\users\\nandini\\source\\repos\\hospitalmanagementsystem_microservices\\hospitalmanagement_apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36444E9C-8E6B-4D77-9819-C5C0CEB65E56}|Hospitalmanagement_ApiGateway\\Hospitalmanagement_ApiGateway.csproj|solutionrelative:hospitalmanagement_apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36444E9C-8E6B-4D77-9819-C5C0CEB65E56}|Hospitalmanagement_ApiGateway\\Hospitalmanagement_ApiGateway.csproj|c:\\users\\nandini\\source\\repos\\hospitalmanagementsystem_microservices\\hospitalmanagement_apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36444E9C-8E6B-4D77-9819-C5C0CEB65E56}|Hospitalmanagement_ApiGateway\\Hospitalmanagement_ApiGateway.csproj|solutionrelative:hospitalmanagement_apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36444E9C-8E6B-4D77-9819-C5C0CEB65E56}|Hospitalmanagement_ApiGateway\\Hospitalmanagement_ApiGateway.csproj|c:\\users\\nandini\\source\\repos\\hospitalmanagementsystem_microservices\\hospitalmanagement_apigateway\\hospitalmanagement_apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{36444E9C-8E6B-4D77-9819-C5C0CEB65E56}|Hospitalmanagement_ApiGateway\\Hospitalmanagement_ApiGateway.csproj|solutionrelative:hospitalmanagement_apigateway\\hospitalmanagement_apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36444E9C-8E6B-4D77-9819-C5C0CEB65E56}|Hospitalmanagement_ApiGateway\\Hospitalmanagement_ApiGateway.csproj|c:\\users\\nandini\\source\\repos\\hospitalmanagementsystem_microservices\\hospitalmanagement_apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36444E9C-8E6B-4D77-9819-C5C0CEB65E56}|Hospitalmanagement_ApiGateway\\Hospitalmanagement_ApiGateway.csproj|solutionrelative:hospitalmanagement_apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hospitalmanagement_ApiGateway.http",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalManagementSystem_Microservices\\Hospitalmanagement_ApiGateway\\Hospitalmanagement_ApiGateway.http",
+              "RelativeDocumentMoniker": "Hospitalmanagement_ApiGateway\\Hospitalmanagement_ApiGateway.http",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\HospitalManagementSystem_Microservices\\Hospitalmanagement_ApiGateway\\Hospitalmanagement_ApiGateway.http",
+              "RelativeToolTip": "Hospitalmanagement_ApiGateway\\Hospitalmanagement_ApiGateway.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-25T11:59:51.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalManagementSystem_Microservices\\Hospitalmanagement_ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "Hospitalmanagement_ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\HospitalManagementSystem_Microservices\\Hospitalmanagement_ApiGateway\\appsettings.json",
+              "RelativeToolTip": "Hospitalmanagement_ApiGateway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T11:59:44.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalManagementSystem_Microservices\\Hospitalmanagement_ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "Hospitalmanagement_ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\HospitalManagementSystem_Microservices\\Hospitalmanagement_ApiGateway\\Program.cs",
+              "RelativeToolTip": "Hospitalmanagement_ApiGateway\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:55:45.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\NANDINI\\source\\repos\\HospitalManagementSystem_Microservices\\Hospitalmanagement_ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "Hospitalmanagement_ApiGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\NANDINI\\source\\repos\\HospitalManagementSystem_Microservices\\Hospitalmanagement_ApiGateway\\ocelot.json",
+              "RelativeToolTip": "Hospitalmanagement_ApiGateway\\ocelot.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T10:47:03.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 156,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
